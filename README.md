@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Krish Dvle</h1>
+<h1 align="center">Hi 👋, I'm Krushna Dhavale</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Enthusiast | Full-Stack Developer</h3>
 
 <p align="center">
